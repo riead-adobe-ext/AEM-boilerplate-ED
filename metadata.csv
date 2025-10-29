@@ -1,4 +1,0 @@
-URL	template	robots	title:suffix
-/**			| Bootcamp
-/blog/*	post		
-/user/*		"noindex, nofollow"	
